@@ -1,6 +1,6 @@
 [
   {
-    "id": "4d33f4cbc8bd8bb",
+    "id": "Android1",
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
@@ -10,7 +10,7 @@
     "id": "4d33f4cbc8bd8bba",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2026-11-30",
     "allowOffline": false
   }
 ]
