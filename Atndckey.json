@@ -5,5 +5,29 @@
     "password": "pass",
     "expiresAt": "2027-01-03",
     "allowOffline": false
+  },
+
+{
+    "id": "d1f2bc12413d6e86a",
+    "username": "user",
+    "password": "pass",
+    "expiresAt": "2027-01-03",
+    "allowOffline": false
+  },
+
+{
+    "id": "d1f2bc12413d6e86a",
+    "username": "user",
+    "password": "pass",
+    "expiresAt": "2027-01-03",
+    "allowOffline": false
+  },
+
+{
+    "id": "d1f2bc12413d6e86",
+    "username": "users",
+    "password": "pass",
+    "expiresAt": "2027-01-03",
+    "allowOffline": false
   }
 ]
