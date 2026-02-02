@@ -19,13 +19,13 @@
     "id": "494bcd229f51dc63",
     "username": "trialhold",
     "password": "monthly",
-    "expiresAt": "2027-01-03",
+    "expiresAt": "2026-03-01",
     "allowOffline": false
   },
 
 {
     "id": "149ef348c8afa867",
-    "username": "monthly",
+    "username": "monyythly",
     "password": "trial",
     "expiresAt": "2027-01-03",
     "allowOffline": false
