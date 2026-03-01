@@ -11,7 +11,7 @@
     "id": "bc4ceba341346bf2",
     "username": "trialend",
     "password": "monthly",
-    "expiresAt": "2026-03-02",
+    "expiresAt": "2026-03-01",
     "allowOffline": false
   },
 
@@ -35,7 +35,7 @@
     "id": "7d2826dbf60e0e7d",
     "username": "deepak",
     "password": "trial",
-    "expiresAt": "2027-01-03",
+    "expiresAt": "2026-04-01",
     "allowOffline": false
   },
 
@@ -43,7 +43,7 @@
     "id": "8946c489b5fb7980",
     "username": "hemraj",
     "password": "trial",
-    "expiresAt": "2027-03-01",
+    "expiresAt": "2026-03-01",
     "allowOffline": false
   }
 ]
