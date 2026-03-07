@@ -61,5 +61,29 @@
     "password": "trial",
     "expiresAt": "2026-04-01",
     "allowOffline": false
+  },
+
+{
+    "id": "84b7980",
+    "username": "hemraj",
+    "password": "trial",
+    "expiresAt": "2026-04-01",
+    "allowOffline": false
+  },
+
+{
+    "id": "11eafee9a",
+    "username": "sunil",
+    "password": "trial",
+    "expiresAt": "2026-04-01",
+    "allowOffline": false
+  },
+
+{
+    "id": "b3f6e08d",
+    "username": "aniket",
+    "password": "trial",
+    "expiresAt": "2026-04-01",
+    "allowOffline": false
   }
 ]
