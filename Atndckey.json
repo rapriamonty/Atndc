@@ -8,14 +8,6 @@
   },
 
 {
-    "id": "e3fa5193b763ba0d",
-    "username": "rkmeena150022",
-    "password": "monthly",
-    "expiresAt": "2026-04-22",
-    "allowOffline": false
-  },
-
-{
     "id": "494bcd229f51dc63",
     "username": "trialhold",
     "password": "monthly",
@@ -96,8 +88,8 @@
   },
 
 {
-    "id": "7612ba6788c5511f",
-    "username": "keshav621022chutiya",
+    "id": "e3fa5193b763ba0d",
+    "username": "rajesh150022",
     "password": "monthly",
     "expiresAt": "2026-04-22",
     "allowOffline": false
