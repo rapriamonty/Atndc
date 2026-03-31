@@ -35,7 +35,7 @@
     "id": "798b22cf2745d74b",
     "username": "hemraj",
     "password": "trial",
-    "expiresAt": "2026-04-01",
+    "expiresAt": "2026-05-01",
     "allowOffline": false
   },
 
@@ -100,6 +100,14 @@
     "username": "deepu40028",
     "password": "halfmonth",
     "expiresAt": "2026-04-11",
+    "allowOffline": false
+  }
+
+{
+    "id": "1eca8c34c4b56a16",
+    "username": "ashutosh150031",
+    "password": "monthly",
+    "expiresAt": "2026-05-01",
     "allowOffline": false
   }
 ]
