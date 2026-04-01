@@ -16,6 +16,14 @@
   },
 
 {
+    "id": "hhffh",
+    "username": "ashutosh150031",
+    "password": "monthly",
+    "expiresAt": "2026-05-01",
+    "allowOffline": false
+  },
+
+{
     "id": "a659c9a536eabbc7",
     "username": "rahul",
     "password": "trial",
@@ -51,7 +59,7 @@
     "id": "b3f61b255e05e08d",
     "username": "aniketmain",
     "password": "trial",
-    "expiresAt": "2026-04-01",
+    "expiresAt": "2026-04-05",
     "allowOffline": false
   },
 
@@ -59,7 +67,7 @@
     "id": "8d9f85bff8317d84",
     "username": "skmain",
     "password": "trial",
-    "expiresAt": "2026-04-01",
+    "expiresAt": "2026-04-05",
     "allowOffline": false
   },
 
