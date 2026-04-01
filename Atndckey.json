@@ -104,6 +104,14 @@
   },
 
 {
+    "id": "5c3f1b5692068555",
+    "username": "aniket2mohit",
+    "password": "monthly",
+    "expiresAt": "2026-05-01",
+    "allowOffline": false
+  },
+
+{
     "id": "7687766f177d1f23",
     "username": "deepu40028",
     "password": "halfmonth",
