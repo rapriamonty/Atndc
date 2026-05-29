@@ -67,7 +67,7 @@
     "id": "721a92a502b37851",
     "username": "master",
     "password": "master",
-    "expiresAt": "2027-05-20",
+    "expiresAt": "2027-01-01",
     "allowOffline": false
   },
 
@@ -75,15 +75,15 @@
     "id": "d1f2bc12413d6e86",
     "username": "master",
     "password": "master",
-    "expiresAt": "2027-03-18",
+    "expiresAt": "2027-01-01",
     "allowOffline": false
   },
 
 {
-    "id": "ffc991e5d614da3f",
-    "username": "aniket1seenu",
+    "id": "b95af3a9355f986f",
+    "username": "trial",
     "password": "trial",
-    "expiresAt": "2026-04-15",
+    "expiresAt": "2027-04-15",
     "allowOffline": false
   },
 
