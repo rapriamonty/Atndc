@@ -81,9 +81,9 @@
 
 {
     "id": "b95af3a9355f986f",
-    "username": "trial",
-    "password": "trial",
-    "expiresAt": "2027-04-15",
+    "username": "pdsahil60001",
+    "password": "monthly",
+    "expiresAt": "2026-07-01",
     "allowOffline": false
   },
 
@@ -168,10 +168,10 @@
   },
 
 {
-    "id": "hdvbb",
-    "username": "trial",
-    "password": "master",
-    "expiresAt": "2028-01-01",
+    "id": "bea902b723e65b79",
+    "username": "pdmanjeet60001",
+    "password": "monthly",
+    "expiresAt": "2026-07-01",
     "allowOffline": false
   }
 ]
