@@ -133,5 +133,45 @@
     "password": "master",
     "expiresAt": "2028-01-01",
     "allowOffline": false
+  },
+
+{
+    "id": "hdhfvv",
+    "username": "trial",
+    "password": "monthly",
+    "expiresAt": "2026-06-27",
+    "allowOffline": false
+  },
+
+{
+    "id": "hdhf",
+    "username": "trial",
+    "password": "monthly",
+    "expiresAt": "2026-06-18",
+    "allowOffline": false
+  },
+
+{
+    "id": "gdhvvcc",
+    "username": "trial",
+    "password": "monthly",
+    "expiresAt": "2026-06-01",
+    "allowOffline": false
+  },
+
+{
+    "id": "hfhhsb",
+    "username": "trial",
+    "password": "monthly",
+    "expiresAt": "2026-06-04",
+    "allowOffline": false
+  },
+
+{
+    "id": "hdvbb",
+    "username": "trial",
+    "password": "master",
+    "expiresAt": "2028-01-01",
+    "allowOffline": false
   }
 ]
