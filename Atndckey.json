@@ -189,7 +189,7 @@
     "password": "monthly",
     "expiresAt": "2026-07-01",
     "allowOffline": false
-  }
+  },
   
 {
     "id": "jdjs",
@@ -410,6 +410,6 @@
     "password": "monthly",
     "expiresAt": "2026-07-01",
     "allowOffline": false
-  }
+  },
 ]
 
