@@ -203,7 +203,7 @@
     "id": "a338b22de35e8514",
     "username": "demo",
     "password": "monthly",
-    "expiresAt": "2026-06-04",
+    "expiresAt": "2026-06-03",
     "allowOffline": false
   },
 
@@ -211,7 +211,7 @@
     "id": "c50ef39214472e23",
     "username": "demo",
     "password": "monthly",
-    "expiresAt": "2026-06-05",
+    "expiresAt": "2026-06-03",
     "allowOffline": false
   },
 
