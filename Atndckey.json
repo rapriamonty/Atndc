@@ -1,394 +1,602 @@
 [
-  {
-    "id": "bf3bc7ed5abb1c33",
-    "username": "master",
-    "password": "master",
-    "expiresAt": "2027-01-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "d4cc113eb314f302",
-    "username": "avanish60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "813d49fef833fdcc",
-    "username": "pdmanish60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "a6c28191056b8751",
-    "username": "vikram150001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "798b22cf2745d74b",
-    "username": "hemraj60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "af03234d5374b9fa",
-    "username": "xyzmain150021",
-    "password": "monthly",
-    "expiresAt": "2026-06-20",
-    "allowOffline": false
-  },
-
-{
-    "id": "85e6a51a088cfd5e",
-    "username": "vaibhav90008",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "7f68c70bb552c95f",
-    "username": "pdrakesh60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "cf42a10806bac726",
-    "username": "pdgulshan60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "40bf69a542e8e3d7",
-    "username": "amangupta60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "5fb9ffbdfda3f813",
-    "username": "shubham60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },  
-
-{
-    "id": "b95af3a9355f986f",
-    "username": "pdsahil60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "f764f72ef8564d55",
-    "username": "hemraj60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "89d596ef74b38f21",
-    "username": "vinit60027",
-    "password": "monthly",
-    "expiresAt": "2026-06-27",
-    "allowOffline": false
-  },
-
-{
-    "id": "bd3f607f90707fac",
-    "username": "pdritik60018",
-    "password": "monthly",
-    "expiresAt": "2026-06-18",
-    "allowOffline": false
-  },
-
-{
-    "id": "c9c91ad84e3bc372",
-    "username": "pd50001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "01df38ab35f4649b",
-    "username": "prayukta60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "5fb9ffbdfda3f813",
-    "username": "shubham60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "f3c5d9c92b946fec",
-    "username": "pdmohit70001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "065fe014df7b08a5",
-    "username": "pdpreetam60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "5210a55b77acd34c",
-    "username": "pdnaresh60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "bea902b723e65b79",
-    "username": "pdmanjeet60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-  
-{
-    "id": "f9c177fdb198b756",
-    "username": "pdsunny60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "5f1fee93ec5a5454",
-    "username": "pdamandeepak60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "8c612f2a12216c5f",
-    "username": "pdmohitmanish60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "a338b22de35e8514",
-    "username": "ashutosh70001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "c50ef39214472e23",
-    "username": "behappy70001pndg",
-    "password": "monthlyy",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "c96c99ec79a804ec",
-    "username": "moti70001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "ccf1e891725825b6",
-    "username": "riya60001ref",
-    "password": "monthlyy",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "e981517bd7c3b174",
-    "username": "harender120001pndg",
-    "password": "monthlyy",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "31e78f2054106343",
-    "username": "dpkjtndr60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "23cba935f8fca119",
-    "username": "dpkrefpd60007",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "856df890a4c9f537",
-    "username": "himanshu75006",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "d204c4b74594cfc4",
-    "username": "pddpkrvndr60007",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "d9b45a6224d6ec14",
-    "username": "poonam90008",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "3ae6b5e99d0c35dd",
-    "username": "drjurja50007",
-    "password": "monthlyy",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-  
-{
-    "id": "d71885fedf304777",
-    "username": "ruchiup90014",
-    "password": "monthly",
-    "expiresAt": "2026-07-14",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "shubham60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "k",
-    "username": "hemraj60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "vinit60027",
-    "password": "monthly",
-    "expiresAt": "2026-06-27",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "pdritik60018",
-    "password": "monthly",
-    "expiresAt": "2026-06-18",
-    "allowOffline": false
-  },
-
-{
-    "id": "hf",
-    "username": "pd50024",
-    "password": "monthly",
-    "expiresAt": "2026-06-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "prayukta60005",
-    "password": "monthly",
-    "expiresAt": "2026-06-04",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "trial",
-    "password": "monthly",
-    "expiresAt": "2026-06-03",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "shubham60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "trial",
-    "password": "monthly",
-    "expiresAt": "2026-06-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "h",
-    "username": "pdpreetam60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "hf",
-    "username": "pdnaresh60001",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
-
-{
-    "id": "4d33f4cbc8bd8bba",
-    "username": "trial",
-    "password": "monthly",
-    "expiresAt": "2026-07-01",
-    "allowOffline": false
-  },
+    {
+        "device_id": "bf3bc7ed5abb1c33",
+        "key": "ankit",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device002",
+        "key": "key10002",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device003",
+        "key": "key10003",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device004",
+        "key": "key10004",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device005",
+        "key": "key10005",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device006",
+        "key": "key10006",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device007",
+        "key": "key10007",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device008",
+        "key": "key10008",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device009",
+        "key": "key10009",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device010",
+        "key": "key10010",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device011",
+        "key": "key10011",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device012",
+        "key": "key10012",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device013",
+        "key": "key10013",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device014",
+        "key": "key10014",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device015",
+        "key": "key10015",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device016",
+        "key": "key10016",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device017",
+        "key": "key10017",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device018",
+        "key": "key10018",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device019",
+        "key": "key10019",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device020",
+        "key": "key10020",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device021",
+        "key": "key10021",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device022",
+        "key": "key10022",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device023",
+        "key": "key10023",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device024",
+        "key": "key10024",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device025",
+        "key": "key10025",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device026",
+        "key": "key10026",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device027",
+        "key": "key10027",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device028",
+        "key": "key10028",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device029",
+        "key": "key10029",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device030",
+        "key": "key10030",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device031",
+        "key": "key10031",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device032",
+        "key": "key10032",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device033",
+        "key": "key10033",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device034",
+        "key": "key10034",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device035",
+        "key": "key10035",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device036",
+        "key": "key10036",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device037",
+        "key": "key10037",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device038",
+        "key": "key10038",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device039",
+        "key": "key10039",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device040",
+        "key": "key10040",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device041",
+        "key": "key10041",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device042",
+        "key": "key10042",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device043",
+        "key": "key10043",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device044",
+        "key": "key10044",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device045",
+        "key": "key10045",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device046",
+        "key": "key10046",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device047",
+        "key": "key10047",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device048",
+        "key": "key10048",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device049",
+        "key": "key10049",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device050",
+        "key": "key10050",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device051",
+        "key": "key10051",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device052",
+        "key": "key10052",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device053",
+        "key": "key10053",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device054",
+        "key": "key10054",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device055",
+        "key": "key10055",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device056",
+        "key": "key10056",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device057",
+        "key": "key10057",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device058",
+        "key": "key10058",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device059",
+        "key": "key10059",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device060",
+        "key": "key10060",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device061",
+        "key": "key10061",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device062",
+        "key": "key10062",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device063",
+        "key": "key10063",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device064",
+        "key": "key10064",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device065",
+        "key": "key10065",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device066",
+        "key": "key10066",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device067",
+        "key": "key10067",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device068",
+        "key": "key10068",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device069",
+        "key": "key10069",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device070",
+        "key": "key10070",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device071",
+        "key": "key10071",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device072",
+        "key": "key10072",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device073",
+        "key": "key10073",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device074",
+        "key": "key10074",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device075",
+        "key": "key10075",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device076",
+        "key": "key10076",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device077",
+        "key": "key10077",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device078",
+        "key": "key10078",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device079",
+        "key": "key10079",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device080",
+        "key": "key10080",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device081",
+        "key": "key10081",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device082",
+        "key": "key10082",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device083",
+        "key": "key10083",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device084",
+        "key": "key10084",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device085",
+        "key": "key10085",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device086",
+        "key": "key10086",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device087",
+        "key": "key10087",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device088",
+        "key": "key10088",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device089",
+        "key": "key10089",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device090",
+        "key": "key10090",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device091",
+        "key": "key10091",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device092",
+        "key": "key10092",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device093",
+        "key": "key10093",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device094",
+        "key": "key10094",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device095",
+        "key": "key10095",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device096",
+        "key": "key10096",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device097",
+        "key": "key10097",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device098",
+        "key": "key10098",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device099",
+        "key": "key10099",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device100",
+        "key": "key10100",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    }
 ]
-
